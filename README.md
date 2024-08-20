@@ -1,6 +1,6 @@
 # SeFAR
 
-This is an official implementation of our work: SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization
+This is an official implementation of our work: SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization. All code and data will be release after the paper notification.
 
 ## Installation
 
