@@ -81,6 +81,11 @@ Results on coarse-grained datasets:
 | ------ | ------ | ------ | ------- | -------- | -------- |
 | SeFAR  | 47.3   | 72.4   | 87.1    | 63.4     | 67.0     |
 
+## Citation
+Please consider citing our paper if our code and dataset annotations are useful:
+```bib
+coming soon~
+```
 
 
 
