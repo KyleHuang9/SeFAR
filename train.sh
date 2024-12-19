@@ -4,8 +4,8 @@ python run_net_emamix.py \
   DATA.PATH_TO_DATA_DIR ./dataset/finegym/all99_5 \
   OUTPUT_DIR ./output/finegym_all99_5 \
   NUM_GPUS 1 \
-  TRAIN.BATCH_SIZE 3 \
-  TEST.BATCH_SIZE 48 \
+  TRAIN.BATCH_SIZE 1 \
+  TEST.BATCH_SIZE 16 \
   TRAIN.ENABLE True \
   TRAIN.FINETUNE False \
-  TRAIN.CHECKPOINT_FILE_PATH ./output/checkpoint_epoch_00030.pyth
+  # TRAIN.CHECKPOINT_FILE_PATH ./output/checkpoint_epoch_00030.pyth

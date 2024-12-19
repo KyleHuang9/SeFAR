@@ -6,7 +6,7 @@ TRAIN:
   CHECKPOINT_PERIOD: 5
   AUTO_RESUME: True
   GAMMA: 0.3
-  WARM_EPOCH: 0
+  WARM_EPOCH: 5
   BETA: 10
   GAMMA1: 2
   GAMMA2: 2
@@ -23,7 +23,7 @@ DATA:
   SAMPLE_FRAMES: [2, 2, 4]
 TIMESFORMER:
   ATTENTION_TYPE: 'divided_space_time'
-  PRETRAIN_PATH: '/root/SeFAR/vit_small_p16_224.pth'
+  PRETRAIN_PATH: '/root/SeFAR/vit_base_p16_224.pth'
 SOLVER:
   BASE_LR: 0.005
   LR_POLICY: steps_with_relative_lrs
@@ -35,7 +35,7 @@ SOLVER:
   OPTIMIZING_METHOD: sgd
 MODEL:
   MODEL_NAME: multi_granular_vit
-  MODEL_TYPE: small
+  MODEL_TYPE: base
   NUM_CLASSES: 99
   ARCH: vit
   LOSS_FUNC: cross_entropy

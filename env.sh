@@ -27,3 +27,4 @@ pip install simplejson
 pip install 'git+https://github.com/facebookresearch/fvcore'
 pip install matplotlib
 pip install opencv-python
+pip install thop
