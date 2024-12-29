@@ -1,4 +1,4 @@
-# SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization (AAAI'25🔥)
+# *SeFAR*: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization (*AAAI'25*🔥)
 [Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haodong Chen](https://haroldchen19.github.io/)<sup>😎</sup>, Zhenbang Xu, Zihan Jia, Haozhou Sun, [Dian Shao](https://scholar.google.com/citations?hl=en&user=amxDSLoAAAAJ&view_op=list_works&sortby=pubdate)<sup>🤩</sup>
 
 <sup>😎</sup>Equal Contribution, <sup>🤩</sup>Corresponding Author
