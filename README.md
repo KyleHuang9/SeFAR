@@ -75,27 +75,27 @@ In the following table we report the accuracy in original paper.
 
 Results of elements across all events:
 
-| Method | Gym99-5% | Gym99-10% | FineDiving-5% | FineDiving-10% |
-| ------ | -------- | --------- | ------------- | -------------- |
-| SeFAR  | 35.7     | 28.0      | 71.5          | 78.0           |
+| Method | Gym99-5% | Gym99-10% | Gym288-5% | Gym288-10% | FineDiving-5% | FineDiving-10% |
+| ------ | -------- | --------- | --------- | ---------- | ------------- | -------------- |
+| SeFAR  | 39.0     | 56.9      | 28.3      | 48.1       | 72.8          | 80.9           |
 
 Results of elements within an event:
 
-| Method | UB-10% | FX-10% | 10m-10% | 10m-20% |
-| ------ | ------ | ------ | ------- | ------- |
-| SeFAR  | 56.3   | 22.2   | 84.3    | 95.3    |
+| Method | UB-10% | UB-20% | FX-10% | FX-20% | 10m-10% | 10m-20% |
+| ------ | ------ | ------ | ------ | ------ | ------- | ------- |
+| SeFAR  | 58.5   | 75.5   | 27.6   | 44.2   | 87.4    | 94.6    |
 
 Results of elements within a set:
 
-| Method | UB-S1-10% | FX-S1-10% | 5253B-10% | 5253B-20% |
-| ------ | --------- | --------- | --------- | --------- |
-| SeFAR  | 37.8      | 20.0      | 97.8      | 97.0      |
+| Method | UB-S1-10% | UB-S1-20% | FX-S1-10% | FX-S1-20% | 5253B-10% | 5253B-20% |
+| ------ | --------- | --------- | --------- | --------- | --------- | --------- |
+| SeFAR  | 37.1      | 56.8      | 20.1      | 26.5      | 97.0      | 97.8      |
 
 Results on coarse-grained datasets:
 
 | Method | UCF-1% | UCF-5% | UCF-10% | HMDB-40% | HMDB-50% |
 | ------ | ------ | ------ | ------- | -------- | -------- |
-| SeFAR  | 47.3   | 72.4   | 87.1    | 63.4     | 67.0     |
+| SeFAR  | 50.3   | 77.6   | 87.0    | 61.5     | 65.7     |
 
 ## Citation
 Please consider citing our paper if our code and dataset annotations are useful:
