@@ -1,5 +1,6 @@
 # *SeFAR*: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization (*AAAI'25*🔥)
 <div align="center">
+
 [Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haodong Chen](https://haroldchen19.github.io/)<sup>😎</sup>, Zhenbang Xu, Zihan Jia, Haozhou Sun, [Dian Shao](https://scholar.google.com/citations?hl=en&user=amxDSLoAAAAJ&view_op=list_works&sortby=pubdate)<sup>🤩</sup>
 
 Northwestern Polytechnical University
