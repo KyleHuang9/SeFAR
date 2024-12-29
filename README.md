@@ -1,6 +1,16 @@
-# SeFAR (AAAI'25🔥)
+# SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization (AAAI'25🔥)
+[Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haodong Chen](https://haroldchen19.github.io/)<sup>😎</sup>, Zhenbang Xu, Zihan Jia, Haozhou Sun, [Dian Shao](https://scholar.google.com/citations?hl=en&user=amxDSLoAAAAJ&view_op=list_works&sortby=pubdate)<sup>🤩</sup>
 
-This is an official implementation of our work: SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization. 
+<sup>😎</sup>Equal Contribution, <sup>🤩</sup>Corresponding Author
+
+<p align="center">
+  <a href='https://arxiv.org/abs/2405.07472'>
+  <img src='https://img.shields.io/badge/Arxiv-2405.07472-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
+</p>
+
+## Abstract
+
+> Human action understanding is crucial for the advancement of multimodal systems. While recent developments, driven by powerful large language models (LLMs), aim to be *general* enough to cover a wide range of categories, they often overlook the need for more *specific* capabilities. In this work, we address the more challenging task of Fine-grained Action Recognition (FAR), which focuses on detailed semantic labels within shorter temporal duration (*e.g.*, "salto backward tucked with 1 turn"). Given the high costs of annotating fine-grained labels and the substantial data needed for fine-tuning LLMs, we propose to adopt semi-supervised learning (SSL). Our framework, **SeFAR**, incorporates several innovative designs to tackle these challenges. Specifically, to capture sufficient visual details, we construct *Dual-level temporal elements* as more effective representations, based on which we design a new strong augmentation strategy for the Teacher-Student learning paradigm through involving *moderate temporal perturbation*. Furthermore, to handle the high uncertainty within the teacher model's predictions for FAR, we propose the *Adaptive Regulation* to stabilize the learning process. Experiments show that SeFAR achieves state-of-the-art performance on two FAR datasets, FineGym and FineDiving, across various data scopes. It also outperforms other semi-supervised methods on two classical coarse-grained datasets, UCF101 and HMDB51. Further analysis and ablation studies validate the effectiveness of our designs. Additionally, we show that the features extracted by our SeFAR could largely promote the ability of multimodal foundation models to understand fine-grained and domain-specific semantics.
 
 ## Installation
 
