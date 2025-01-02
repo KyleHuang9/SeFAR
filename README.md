@@ -3,7 +3,7 @@
 
 _**[Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haodong Chen](https://haroldchen19.github.io/)<sup>😎</sup>, Zhenbang Xu, Zihan Jia, Haozhou Sun, [Dian Shao](https://scholar.google.com/citations?hl=en&user=amxDSLoAAAAJ&view_op=list_works&sortby=pubdate)<sup>🤩</sup>**_
 
-**Northwestern Polytechnical University**
+*Northwestern Polytechnical University*
 
 **<sup>😎</sup>Equal Contribution, <sup>🤩</sup>Corresponding Author**
 
