@@ -5,7 +5,7 @@ _**[Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haodong Chen](
 
 *Northwestern Polytechnical University*
 
-**<sup>😎</sup>Equal Contribution, <sup>🤩</sup>Corresponding Author**
+*<sup>😎</sup>Equal Contribution, <sup>🤩</sup>Corresponding Author*
 
 </div>
 
