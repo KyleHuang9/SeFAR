@@ -100,7 +100,12 @@ Results on coarse-grained datasets:
 ## Citation
 Please consider citing our paper if our code and dataset annotations are useful:
 ```bib
-coming soon~
+@article{huang2025sefar,
+    title={SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization},
+    author={Huang, Yongle and Chen, Haodong and Xu, Zhenbang and Jia, Zihan and Sun, Haozhou and Shao, Dian},
+    journal={arXiv preprint arXiv:2501.01245},
+    year={2025}
+}
 ```
 
 
