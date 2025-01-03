@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href='https://arxiv.org/abs/2405.07472'>
+  <a href='https://arxiv.org/abs/2501.01245'>
   <img src='https://img.shields.io/badge/Arxiv-2405.07472-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
 </p>
 
